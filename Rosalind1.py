@@ -12,7 +12,7 @@ Sample Output
 """
 
 seq = 'AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC'
-count = "ACGT'
+count = "ACGT"
 bases = []
 
 for base in count:
