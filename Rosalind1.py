@@ -12,7 +12,7 @@ Sample Output
 """
 
 seq = 'AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC'
-count "ATCG"
+count "ACGT'
 
 for base in count:
 	bases.append(str(seq.count(base)))
