@@ -27,7 +27,7 @@ for i in consulta:
 
 out.close()
 
-#''' Un control para saber si todo se guardó bien
+#''' Un control para saber si se guardó bien
 
 out = open(secuencias,'rU')
 
