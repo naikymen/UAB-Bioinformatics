@@ -1,0 +1,851 @@
+LOCUS       HIVFLD1                  360 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample FLD1, V3 region.
+ACCESSION   M90848
+VERSION     M90848.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 360)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            M13 clone 1 of DNA ID 4430.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is one of 6 clone sequences over the V3
+            region obtained by the CDC from a Florida dentist. Please note that
+            for this set of sequences, clone numbers from the V3 region do not
+            correspond with similar numbers from the V4C3V5 region.
+FEATURES             Location/Qualifiers
+     source          1..360
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>360
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44442.1"
+                     /translation="LAEEEVVIRSANFTDNAKIIIVQLNASVEINCTRPNNNTRKGIHI
+                     GPGRAFYATGEIIGDIRQAHCNISREKWNNTLNQVVTELREQFGNKTITFNHSSGGDPE
+                     IVMHSFNCGGEFFYCN"
+ORIGIN
+        1 ctagcagaag aagaggtagt aattagatct gccaatttca cagacaatgc taaaatcata
+       61 atagtacagc tgaatgcatc tgtagaaatt aattgtacaa ggcccaacaa caatacaaga
+      121 aaaggtatac atataggacc agggagagca ttttatgcaa caggagaaat aataggagat
+      181 ataagacaag cacattgtaa cattagtaga gaaaaatgga ataatacttt aaaccaggta
+      241 gttacagaat taagggaaca atttgggaat aaaacaataa cctttaatca ctcctcagga
+      301 ggggacccag aaattgtaat gcacagtttt aattgtggag gggaattttt ctattgtaat
+//
+LOCUS       HIVFLD2                  360 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample FLD2, V3 region.
+ACCESSION   M90849
+VERSION     M90849.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 360)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            M13 clone 2 of DNA ID 4430.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is one of 6 clone sequences over the V3
+            region obtained by the CDC from a Florida dentist. Please note that
+            for this set of sequences, clone numbers from the V3 region do not
+            correspond with similar numbers from the V4C3V5 region.
+FEATURES             Location/Qualifiers
+     source          1..360
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>360
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44443.1"
+                     /translation="LAEEEIVIRSANFTDNAKIIIVQLNASVEIDCTRPNNNTRKGIHI
+                     GPGRAFYATGEIIGDIRQAHCNISREKWNSTLKQVVTKLREQFGNKTIIFNHSSGGDPE
+                     IVMHSFNCGGEFFYCN"
+ORIGIN
+        1 ctagcagaag aagagatagt aattagatct gccaatttca cagacaatgc taaaatcata
+       61 atagtacagc tgaatgcatc tgtagaaatt gattgtacaa gacccaacaa caatacaaga
+      121 aaaggtatac atataggacc agggagggca ttttatgcaa caggagaaat aataggagat
+      181 ataagacaag cacattgtaa cattagtaga gaaaaatgga atagtacttt aaaacaggta
+      241 gttacaaaat taagagaaca atttgggaat aaaacaataa tctttaatca ctcctcagga
+      301 ggggacccag aaattgtaat gcacagtttt aattgtggag gggaattttt ctactgtaat
+//
+LOCUS       HIVFLD4                  360 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample FLD4, V3 region.
+ACCESSION   M90850
+VERSION     M90850.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 360)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            M13 clone 4 of DNA ID 4430.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is one of 6 clone sequences over the V3
+            region obtained by the CDC from a Florida dentist. Please note that
+            for this set of sequences, clone numbers from the V3 region do not
+            correspond with similar numbers from the V4C3V5 region.
+FEATURES             Location/Qualifiers
+     source          1..360
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>360
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44444.1"
+                     /translation="LAEEEVVIRSANFTDNAKIIIVQLNASVEINCTRPNNNTRKGIHI
+                     GPGRAFYATGEIIGDIRQAHCNISREKWNNTLRQVVTKLREQFGNKTVIFNHSSGGDPE
+                     IVMHSFNCGGEFFYCN"
+ORIGIN
+        1 ctagcagaag aagaggtagt aattagatct gccaatttca cagacaatgc taaaatcata
+       61 atagtacagc tgaatgcatc tgtagaaatt aattgtacaa gacccaacaa caacacaaga
+      121 aaaggtatac atataggacc agggagggca ttttatgcaa caggagaaat aataggagat
+      181 ataagacaag cacattgtaa cattagtaga gaaaaatgga ataatacttt aagacaggta
+      241 gttacaaaat taagagaaca atttgggaat aaaacagtaa tctttaatca ctcctcagga
+      301 ggggacccag aaattgtaat gcacagtttt aattgtggag gggaattttt ctactgtaat
+//
+LOCUS       HIVFLD5                  360 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample FLD5, V3 region.
+ACCESSION   M90851
+VERSION     M90851.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 360)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            M13 clone 5 of DNA ID 4430.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is one of 6 clone sequences over the V3
+            region obtained by the CDC from a Florida dentist. Please note that
+            for this set of sequences, clone numbers from the V3 region do not
+            correspond with similar numbers from the V4C3V5 region.
+FEATURES             Location/Qualifiers
+     source          1..360
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>360
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44445.1"
+                     /translation="LAEEEVVIRSANFTDNAKIIIVQLNASVEINCTRPNNYTRKGIRI
+                     GPGRAVYAAEKIIGDIRRAHCNISREKWNNTLKQVVTKLREQFVNKTIIFTHPSGGDPE
+                     IVMHSVNCGGEFFYCN"
+ORIGIN
+        1 ctagcagaag aagaggtagt aattagatct gccaatttca cagacaatgc taaaatcata
+       61 atagtacagc tgaatgcatc tgtagaaatt aattgtacaa gacccaacaa ctatacaaga
+      121 aaaggtatac gtataggacc agggagagca gtttatgcag cagaaaaaat aataggagac
+      181 ataagacgag cacattgtaa cattagtaga gaaaaatgga ataatacttt aaaacaggta
+      241 gtcacaaaat taagagaaca atttgtgaat aaaacaataa tctttactca cccctcagga
+      301 ggggacccag aaattgtgat gcacagtgtt aattgtggag gggaattttt ctactgtaat
+//
+LOCUS       HIVFLD7                  360 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample FLD7, V3 region.
+ACCESSION   M90852
+VERSION     M90852.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 360)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            M13 clone 7 of DNA ID 4430.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is one of 6 clone sequences over the V3
+            region obtained by the CDC from a Florida dentist. Please note that
+            for this set of sequences, clone numbers from the V3 region do not
+            correspond with similar numbers from the V4C3V5 region.
+FEATURES             Location/Qualifiers
+     source          1..360
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>360
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44446.1"
+                     /translation="LAEEEVVIRSANFTDNAKIIIVQLNASVEINCTRPNNNTRKGIHI
+                     GPGRAFYATGEIIGDIRQAHCNISREKWNNTLRQVVTKLREQFGNKTIIFNHSSGGDPE
+                     IVMHSFNCGGEFFYCN"
+ORIGIN
+        1 ctagcagaag aagaggtagt aattagatct gccaatttca cagacaatgc taaaatcata
+       61 atagtacagc tgaatgcatc tgtagaaatt aattgtacaa ggcccaacaa caatacaaga
+      121 aaaggtatac atataggacc agggagagca ttttatgcaa caggagaaat aataggagat
+      181 ataagacaag cacattgtaa cattagtaga gaaaaatgga ataatacttt aagacaggta
+      241 gttacaaaat taagagaaca atttgggaat aaaacaataa tctttaatca ctcctcagga
+      301 ggggacccag aaattgtaat gcacagtttt aattgtggag gggaattttt ctactgtaat
+//
+LOCUS       HIVFLD8                  360 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample FLD8, V3 region.
+ACCESSION   M90853
+VERSION     M90853.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 360)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            M13 clone 8 of DNA ID 4430.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is one of 6 clone sequences over the V3
+            region obtained by the CDC from a Florida dentist. Please note that
+            for this set of sequences, clone numbers from the V3 region do not
+            correspond with similar numbers from the V4C3V5 region.
+FEATURES             Location/Qualifiers
+     source          1..360
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>360
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44447.1"
+                     /translation="LAEEEVVIRSANFTDNAKIIIVQLNASVEINCTRPNNYTRKGIRI
+                     GPGRAVYAAEKIIGDIRRAHCNISREKWNNTLKQVVTKLREQFVNKTIIFTHPSGGDPE
+                     IVMHSVNCGGEFFYCN"
+ORIGIN
+        1 ctagcagaag aagaggtagt aattagatct gccaatttca cagacaatgc taaaatcata
+       61 atagtacagc tgaatgcatc tgtagaaatt aattgtacaa gacccaacaa ctatacaaga
+      121 aaaggtatac gtataggacc agggagagca gtttatgcag cagaaaaaat aataggagat
+      181 ataagacgag cacattgtaa cattagtaga gaaaaatgga ataatacttt aaaacaggta
+      241 gttacaaaat taagagaaca atttgtgaat aaaacaataa tctttactca cccctcagga
+      301 ggggacccag aaattgtaat gcacagtgtt aattgtggag gggaattttt ctactgtaat
+//
+LOCUS       HIVFLPA1                 351 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample FLPA1, V3 region.
+ACCESSION   M90855
+VERSION     M90855.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 351)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            M13 clone A1 of DNA ID 4428.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is one of 6 clone sequences over the V3
+            region obtained by the CDC from patient 'A' of a Florida dentist.
+            Please note that for this set of sequences, clone numbers from the
+            V3 region do not correspond with similar numbers from the V4C3V5
+            region.
+FEATURES             Location/Qualifiers
+     source          1..351
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>351
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44450.1"
+                     /translation="LAEEEVVIRSANFTDNAKIIIVQLNASVEINCTRPNNNTRKGIRI
+                     GPGRAVYAAEKIIGDIRRAHCNISREKWNNTLKQVVTKLREQFVNKTIIFNHSSGGDPE
+                     IVMHSFNCGGEFF"
+ORIGIN
+        1 ctagcagaag aagaggtagt aattagatct gccaatttca cagacaatgc taaaatcata
+       61 atagtacagc tgaatgcatc tgtagaaatt aattgtacaa gacccaacaa caatacaaga
+      121 aaaggtatac gtataggacc agggagagca gtttatgcag cagaaaaaat aataggagat
+      181 ataagacgag cacattgtaa cattagtaga gaaaaatgga ataatacttt aaaacaggta
+      241 gttacaaaat taagagaaca atttgtgaat aaaacaataa tctttaatca ctcctcagga
+      301 ggggatccag aaattgtaat gcacagtttt aattgtggag gggaattttt c
+//
+LOCUS       HIVFLPB2                 343 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample FLPB2, V3 region.
+ACCESSION   M90863
+VERSION     M90863.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 343)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            M13 clone A02 of DNA ID 5592.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is one of 13 clone sequences over the V3
+            region obtained by the CDC from patient 'B' of a Florida dentist.
+            Please note that for this set of sequences, clone numbers from the
+            V3 region do not correspond with similar numbers from the V4C3V5
+            region.
+FEATURES             Location/Qualifiers
+     source          1..343
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>343
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44472.1"
+                     /translation="LAEEEVVIRSANFTDNAKIIIVQLNASVEINCTRPNNNTRKGIHI
+                     GPGRAFYATGEIIGDIRQAHCNISREKWNNTLEQVKTKLREQFENKTIIFNHSSGGDPE
+                     IVTHSFNCGG"
+ORIGIN
+        1 ctagcagaag aagaagtagt aattagatct gccaatttca cagacaatgc taaaatcata
+       61 atagtacagc tgaatgcatc tgtagaaatt aattgtacaa gacccaacaa caatacaaga
+      121 aaaggtatac atataggacc agggagggca ttttatgcaa caggagaaat aataggagat
+      181 ataagacaag cacattgtaa cattagtaga gaaaaatgga ataatacttt agaacaggta
+      241 aaaacaaaat taagagaaca atttgagaat aaaacaataa tctttaatca ctcctcagga
+      301 ggggacccag aaattgtaac gcacagtttt aattgtggag ggg
+//
+LOCUS       HIVFLPCD20               360 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample FLPC20, V3 region.
+ACCESSION   M90880
+VERSION     M90880.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 360)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            M13 clone DA20 of DNA ID 5592.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is one of 5 clones over the V3 region
+            obtained by the CDC from patient 'C' of a Florida dentist. Please
+            note that for this set of sequences, clone numbers from the V3
+            region do not correspond with similar numbers from the V4C3V5
+            region.
+FEATURES             Location/Qualifiers
+     source          1..360
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>360
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44502.1"
+                     /translation="LAEEEVVIRSANFTDNAKIIIVQLNTSAEINCTRPNNNTRKGIHI
+                     GPGRAVYATDRIIGDIRQAHCNISREKWNNTLKQVVTKLREQFVNKTIIFTHPSGGDPE
+                     IVMHSVNCGGEFFYCN"
+ORIGIN
+        1 ctagcagaag aagaggtagt aattagatct gccaatttca cagacaatgc taaaatcata
+       61 atagtacagc taaatacatc tgcagaaatt aattgtacaa gacccaacaa caatacaaga
+      121 aaaggtatac atataggacc agggagagca gtttatgcaa cagacagaat aataggagat
+      181 ataagacaag cacattgtaa cattagtaga gaaaaatgga ataatacttt aaaacaggta
+      241 gttacaaaat taagagaaca atttgtgaat aaaacaataa tctttactca cccctcagga
+      301 ggggacccag aaattgtaat gcacagtgtt aattgtggag gggaattttt ctactgtaat
+//
+LOCUS       HIVFLPD1                 350 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample FLPD1, V3 region.
+ACCESSION   M90882
+VERSION     M90882.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 350)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            M13 clone FA01 of DNA ID 5826.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is one of 5 clones over the V3 region
+            obtained by the CDC from patient 'D' of a Florida dentist. Please
+            note that for this set of sequences, clone numbers from the V3
+            region do not correspond with similar numbers from the V4C3V5
+            region.
+FEATURES             Location/Qualifiers
+     source          1..350
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>350
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44503.1"
+                     /translation="LAEEEVVIRSANFSDNAKTIIVQLNKSVNITCVRPNNNTRESIPI
+                     GPGKAFYATGEIIGDIRQAHCNLSAAEWNNTLXQIVKKLGEQFNNKTIVFNPSSGGGPA
+                     IVMHSFNCGGKF"
+ORIGIN
+        1 ctagcagaag aagaagtagt aattagatct gccaatttct cggacaatgc taaaaccata
+       61 atagtacagc tgaacaaatc tgtaaatatt acttgtgtaa gacccaacaa caatacaaga
+      121 gaaagtatac ctataggacc agggaaagca ttttatgcaa caggagaaat aataggagat
+      181 ataagacaag cacattgtaa ccttagtgca gcagaatgga ataacacgtt ancacagata
+      241 gttaaaaaat taggagaaca atttaataat aaaacaatag tcttcaatcc ctcctcagga
+      301 gggggcccag ctattgtaat gcacagtttt aattgtggag ggaaattttt
+//
+LOCUS       HIVFLPE3                 308 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample FLPE3, V3 region.
+ACCESSION   M90888
+VERSION     M90888.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 308)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            M13 clone A03 of DNA ID 6070.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is one of 6 clone sequences over the V3
+            region obtained by the CDC from patient 'E' of a Florida dentist.
+            Please note that for this set of sequences, clone numbers from the
+            V3 region do not correspond with similar numbers from the V4C3V5
+            region.
+FEATURES             Location/Qualifiers
+     source          1..308
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>308
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44510.1"
+                     /translation="EEIVIRSANFTDNAKIIIVQLNASVEINCTRPNNNTRKGIHIGPG
+                     RAFYATGEIIGDIRQAHCNISGEKWNNTLKQVVTKLREQFGNKTIIFNHSSGGDPEIV"
+ORIGIN
+        1 gaagagatag taattagatc tgccaatttc acagacaatg ctaaaattat aatagtacag
+       61 ctgaatgcat ctgtagaaat taattgtaca agacccaaca acaatacaag aaaaggtata
+      121 catataggac cagggagggc attttatgca acaggagaaa taataggaga tataagacaa
+      181 gcacattgta acattagtgg agaaaaatgg aataatactt taaaacaggt agttacaaaa
+      241 ttaagagaac aatttgggaa taaaacaata atctttaatc actcctcagg aggggaccca
+      301 gaaattgt
+//
+LOCUS       HIVFLPFD                 346 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample FLPFD, V3 region.
+ACCESSION   M90894
+VERSION     M90894.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 346)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            direct sequencing of proviral DNA, DNA ID 7227.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is a direct sequence over the V3 region
+            obtained by the CDC from patient 'F' of a Florida dentist.  6
+            clones are also available over this region from this patient, DNA
+            ID 6398 and 7227.
+FEATURES             Location/Qualifiers
+     source          1..346
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>346
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44522.1"
+                     /translation="EVVIRSENFTDNVKTIIVQLNESVQINCTRPNNNTRKSIHIAPGR
+                     AFYATGEIIGDIRQAHCNLSSTKWNNTLRQIAKKLKEQFGNKTIVFNQSSGGDPEIVMH
+                     SFNCGGEFFYC"
+ORIGIN
+        1 gaggtagtaa taagatctga aaatttcacg gacaatgtta aaaccataat agtgcagctg
+       61 aatgaatctg tacaaattaa ttgtacaaga cccaacaaca atacaagaaa aagtatacat
+      121 atagcaccgg ggagagcatt ttatgcaaca ggagaaataa taggagatat aagacaagca
+      181 cattgtaacc ttagtagcac aaaatggaat aacactttaa gacagatagc taaaaaatta
+      241 aaagaacaat ttggaaataa aacaatagtc tttaatcaat cctcaggagg ggacccagaa
+      301 attgtaatgc acagttttaa ctgtggaggg gaatttttct actgtg
+//
+LOCUS       HIVFLPGD                 351 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample FLPGD, V3 region.
+ACCESSION   M90901
+VERSION     M90901.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 351)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            direct sequencing of proviral DNA, DNA ID 7229.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is a direct sequence over the V3 region
+            obtained by the CDC from patient 'G' of a Florida dentist.  6
+            clones are also available over this region from this subject, DNA
+            ID 6870 and 7229.
+FEATURES             Location/Qualifiers
+     source          1..351
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>351
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44528.1"
+                     /translation="EVVIRSANFTDNAKIIIVQLNASVEINCTRPNNNTRRGIHIGPGR
+                     AFYATDRIVGDIRQAYCNISREKWNNTLKQVVAKLREQFVNKTIIFNHSSGGDPEIVMH
+                     SVNCGGEFFYCNT"
+ORIGIN
+        1 gaggtagtaa ttagatctgc caatttcaca gacaatgcta aaatcataat agtacagctg
+       61 aatgcatctg tagaaattaa ttgtacaaga cccaacaaca atacaagaag aggtatacat
+      121 ataggaccag ggagagcatt ttatgcaaca gacagaatag taggagatat aagacaagca
+      181 tattgtaaca ttagtagaga aaaatggaat aatactttaa aacaggtagt tgcaaaatta
+      241 agagaacaat ttgtgaataa aacaataatc tttaatcact cctcaggagg ggacccagaa
+      301 attgtaatgc acagtgttaa ttgtggaggg gaatttttct actgtaatac a
+//
+LOCUS       HIVFLQ65                 330 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample LC02.DA05, V3
+            region.
+ACCESSION   M90917
+VERSION     M90917.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 330)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            M13 clone DA05 of DNA ID 5242.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is one of 6 clone sequences over the V3
+            region obtained by the CDC from this Florida control sample. Please
+            note that for this set of sequences, clone numbers from the V3
+            region do not correspond with similar numbers from the V4C3V5
+            region.
+FEATURES             Location/Qualifiers
+     source          1..330
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>330
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44602.1"
+                     /translation="LAEEEIVIRSANFTDNTKIIIVQLNESVEINCTRPNNYTGKRLSI
+                     GPGRAFVATRKIIGDIRQAHCNISRVKWNDTLKRIVIKLREQFGNKTIVFDQPSGGDPE
+                     VVKHSF"
+ORIGIN
+        1 ctagcagaag aagagatagt aattagatct gccaatttca cagacaatac taaaatcata
+       61 atagtacagc tgaatgaatc tgtagaaatt aattgtacaa gacccaacaa ctatacagga
+      121 aaaagactat ctataggacc aggcagagca tttgttgcaa caagaaaaat aataggagat
+      181 ataagacaag cacattgtaa cattagtaga gtaaaatgga atgacacttt aaaacggata
+      241 gtgataaaat taagagaaca atttgggaat aaaacaatag tctttgatca accctcagga
+      301 ggggacccag aagttgtaaa gcacagtttt
+//
+LOCUS       HIVFLQ715                342 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample LC03.DA15, V3
+            region.
+ACCESSION   M90929
+VERSION     M90929.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 342)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            M13 clone DA15 of DNA ID 5244.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+            The sequence in this entry is one of 6 clone sequences over the V3
+            region obtained by the CDC from this Florida control sample. Please
+            note that for this set of sequences, clone numbers from the V3
+            region do not correspond with similar numbers from the V4C3V5
+            region.
+FEATURES             Location/Qualifiers
+     source          1..342
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>342
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44606.1"
+                     /translation="LAEGEVVIRSENFTNNAKTIIVQLNTSVTINCTRPGNNTRKSITM
+                     GPGKVFYAGEIIGDIRQAHCNLSRTAWNDTLKQIVGKLQEQFGNKTIVFNHSSGGDPEI
+                     VMHSFVEGNF"
+ORIGIN
+        1 ctagcagaag gagaggtagt aattagatct gaaaatttca cgaacaatgc taaaaccata
+       61 atagtacagc tgaatacatc tgtaacaatt aattgtacaa gacctggcaa caatacaaga
+      121 aaaagtataa ctatgggacc ggggaaagta ttttatgcag gagaaataat aggagatata
+      181 agacaagcac attgtaacct tagtagaaca gcatggaatg atactttaaa acagatagtt
+      241 ggaaaattac aagaacaatt tgggaataaa acaatagtct ttaatcactc ctcaggaggg
+      301 gacccagaaa ttgtaatgca cagttttgtg gaggggaatt tt
+//
+LOCUS       HIVFLQ18                 312 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample LC09, V3 region.
+ACCESSION   M90939
+VERSION     M90939.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 312)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            direct PCR amplification product of Florida control sample C01 of
+            DNA ID 5047.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+FEATURES             Location/Qualifiers
+     source          1..312
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>312
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44544.1"
+                     /translation="EVVIRSENFTNNAKTIIVQLNVSVEINCTRPNNNTRKGIHIGPGR
+                     AFYATGDIIGDIRQAYCNISRAKWNNTLKQVVTKLREQFGITTMVFYHSSGGDPPVVML
+                     "
+ORIGIN
+        1 gaggtagtaa ttagatctga aaatttcacg aacaatgcta aaaccataat agtacagctg
+       61 aatgtatctg tagaaattaa ttgtacaaga cccaacaaca atacaagaaa agggatacat
+      121 ataggaccag ggagagcatt ttatgcaaca ggagacataa taggagatat aagacaagca
+      181 tattgtaaca ttagtagagc aaaatggaat aatactttaa aacaggtagt tacaaagtta
+      241 agagaacaat ttgggattac aacaatggtc ttctatcact cctccggagg ggacccccca
+      301 gttgttatgc tc
+//
+LOCUS       HIVFLQ36                 343 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample LC27, V3 region.
+ACCESSION   M90956
+VERSION     M90956.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 343)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            direct PCR amplification product of Florida control sample C01 of
+            DNA ID 5280.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+FEATURES             Location/Qualifiers
+     source          1..343
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>343
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44561.1"
+                     /translation="EVVIRSDNFTDNAKIIIVQLNESVVINCTRPNNNTRKSIHIGPGS
+                     AFYTTGDIIGHIRQAHCNLSRAKWNDTLKQIVIKLREQFENRTIVFKQSSGGDPEIVTH
+                     SFNCGGEFFY"
+ORIGIN
+        1 gaggtagtaa ttagatcaga caatttcacg gacaatgcta aaatcataat agtacagctg
+       61 aatgaatctg tagtaattaa ttgtacaaga cccaacaaca atacaagaaa aagtatacat
+      121 ataggaccag gcagcgcatt ttatacaaca ggagacataa taggacatat aagacaagca
+      181 cattgtaacc ttagtagagc aaaatggaat gacactttaa aacagatagt tataaaatta
+      241 agagaacaat ttgagaatag aacaatagtc tttaagcaat cctcaggagg ggacccagaa
+      301 attgtaacgc acagctttaa ttgtggaggg gaatttttct act
+//
+LOCUS       HIVFLQ37                 343 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample LC37, V3 region.
+ACCESSION   M90957
+VERSION     M90957.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 343)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            direct PCR amplification product of Florida control sample C01 of
+            DNA ID 5304.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+FEATURES             Location/Qualifiers
+     source          1..343
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>343
+                     /codon_start=1
+                     /note="env polyprotein"
+                     /protein_id="AAA44562.1"
+                     /translation="EIVIRSENFTNNARTIIVHLNESIVINCTRPNNNTGKSIHLAPGR
+                     GFHATGEIIGNIRQAHCNLSAEEWDNTLEKIAKKLGERFPNKTINFTKSSGGDPEIVMH
+                     SFNCGGEFFY"
+ORIGIN
+        1 gagatagtaa ttagatctga aaatttcacg aacaatgcta gaaccataat agtacatctg
+       61 aatgaatcta tagtaattaa ttgtacaaga cccaataaca atacaggaaa aagtatacac
+      121 ctagcaccag ggagaggatt tcatgcaaca ggagagataa taggaaatat aagacaagca
+      181 cattgtaacc ttagtgcaga agaatgggat aacactttag aaaagatagc taaaaaatta
+      241 ggagaacgat ttccgaataa aacaataaac tttactaaat cctcaggagg ggacccagaa
+      301 attgtaatgc acagttttaa ttgtggaggg gaatttttct act
+//
+LOCUS       HIVFLQ44                 348 bp    DNA     linear   VRL 02-AUG-1993
+DEFINITION  Human immunodeficiency virus type 1, viral sample LC35, V3 region.
+ACCESSION   M90964
+VERSION     M90964.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 348)
+  AUTHORS   Ou,C.-Y., Ciesielski,C.A., Myers,G., Bandea,C.I., Luo,C.C.,
+            Korber,B.T.M., Mullins,J.I., Schochetman,G., Berkelman,R.L.,
+            Economou,A.N., Witte,J.J., Furman,L.J., Satten,G.A., Curran,J.W. and
+            Jaffe,H.W.
+  TITLE     Molecular epidemiology of HIV transmission in a dental practice
+  JOURNAL   Science 256 (5060), 1165-1171 (1992)
+   PUBMED   1589796
+COMMENT     Original source text: Human immunodeficiency virus type 1 (HIV-1),
+            direct PCR amplification product of Florida control sample C01 of
+            DNA ID 5374.
+            Kindly submitted in computer readable form by the CDC (Centers for
+            Disease Control), Atlanta, GA.
+FEATURES             Location/Qualifiers
+     source          1..348
+                     /db_xref="taxon:11676"
+                     /mol_type="genomic RNA"
+                     /organism="Human immunodeficiency virus 1"
+     CDS             <1..>348
+                     /codon_start=3
+                     /note="env polyprotein"
+                     /protein_id="AAA44569.1"
+                     /translation="EVVIRSENFTNNAKTIIVQLNESVVINCTRPNNNTRKSIPIGPGR
+                     AFYATGDIIGDIRQAHCNLSREAWNNTLKQVVAKLREQFGKGKTIIFNHSSGGDPEIVM
+                     HTFNCGGEFFY"
+ORIGIN
+        1 gagaggtagt aattagatct gaaaatttca cgaacaatgc taaaaccata atagtacagc
+       61 tgaatgaatc tgtagtaatt aattgtacaa gacccaacaa caatacaaga aaaagtatac
+      121 ctataggacc aggaagagca ttttatgcaa caggagacat aataggagat ataagacaag
+      181 cacattgtaa ccttagtaga gaagcatgga ataacacttt aaaacaggta gttgcaaaat
+      241 taagagaaca atttgggaaa ggtaaaacaa taatctttaa tcactcctca ggaggggacc
+      301 cagaaattgt aatgcacact tttaattgtg gaggggaatt tttctatt
+//
