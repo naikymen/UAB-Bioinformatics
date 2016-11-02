@@ -4,8 +4,8 @@ import os
 from Bio import AlignIO
 #'''
 
-in_file = 'secuencias.fasta'
-out_file = 'secuencias.aln.fasta'
+in_file = 'secuencias2.fasta'
+out_file = 'secuencias2.aln.fasta'
 clustal = '/home/naikymen/PycharmProjects/UAB/Bioinformatica/Stepik/Práctica 6/clustalw2'
 
 cl = ClustalwCommandline(clustal, infile=in_file)
@@ -14,7 +14,7 @@ stdout , stderr = cl()
 
 #print(stdout)
 
-allignment = open('secuencias.aln', 'r+')
+allignment = open('secuencias2.aln', 'r+')
 a_handle = AlignIO.read(allignment, 'clustal')
 allignment.close()
 
