@@ -1,4 +1,4 @@
-f = open('input')
+f = open('input.fasta')
 a = f.readline()
 b = f.readline()
 d = 0
