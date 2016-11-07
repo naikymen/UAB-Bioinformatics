@@ -2,8 +2,8 @@
 from Bio import SeqIO
 from Bio import SeqUtils
 
-file = open('/media/naikymen/SD64/Barcelona UAB/Bioinformática/Rosalind Eval2/secuencia.fasta','r')
-output = open('/media/naikymen/SD64/Barcelona UAB/Bioinformática/Rosalind Eval2/output2.fasta','a')
+file = open('/media/naikymen/SD64/Barcelona UAB/Bioinformática/Rosalind 2 - GC content/secuencia.fasta','r')
+output = open('/media/naikymen/SD64/Barcelona UAB/Bioinformática/Rosalind 2 - GC content/output2.fasta','a')
 #https://docs.python.org/2/library/functions.html
 
 records = SeqIO.parse(file, 'fasta')
