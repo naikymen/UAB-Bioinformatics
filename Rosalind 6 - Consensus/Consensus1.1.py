@@ -39,3 +39,7 @@ k = 0
 for i in r:  # Imprimir la matriz del perfil
     print(bXn(k) + ': ' + ' '.join(str(x) for x in i))
     k += 1
+
+# http://stackoverflow.com/a/3590168
+# http://stackoverflow.com/a/11825864
+# http://stackoverflow.com/a/6473782
