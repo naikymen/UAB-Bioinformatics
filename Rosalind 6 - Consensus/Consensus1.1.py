@@ -1,6 +1,6 @@
 from Bio import SeqIO
 
-file = '/home/naikymen/PycharmProjects/UAB/Bioinformatica/Rosalind 6 - Consensus/input.fa'
+file = '/home/naikymen/PycharmProjects/UAB/Bioinformatica/Rosalind 6 - Consensus/input2.fa'
 handle = SeqIO.parse(file,'fasta')
 
 def bXn(o):  # Función útil para pasar de base a índice al manipular las listas
