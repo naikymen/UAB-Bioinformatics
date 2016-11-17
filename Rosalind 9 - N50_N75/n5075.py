@@ -1,4 +1,4 @@
-file = '/home/naikymen/PycharmProjects/UAB/Bioinformatica/Rosalind 9 - N50_N75/input3.txt'
+file = '/home/naikymen/PycharmProjects/UAB/Bioinformatica/Rosalind 9 - N50_N75/input4.txt'
 handle = open(file,'r')
 records = handle.readlines()
 
@@ -16,24 +16,28 @@ for record in records:
     length = len(record.rstrip('\n'))
     total += length
     lengths.append(length)
-lengths.sort()
+lengths.sort(reverse=True)
 
 for i in range(len(lengths)):
     l += lengths[i]
+    print(l,lengths[i],l/total)
     if l >= total*(50/100) and n50 == 0:
         if lengths[i] != lengths[i-1]:
             n50 = lengths[i]
+            print('----------',l/total,n50)
     if l >= total*(75/100) and n75 == 0:
         if lengths[i] != lengths[i-1]:
             n75 = lengths[i]
+            print('----------', l / total, n75)
     if l >= total*(100/100) and n100 == 0:
         if lengths[i] != lengths[i-1]:
             n100 = lengths[i]
+            print('----------', l / total, n100)
     i += 1
 
 print(n50, n75)
 
-
+handle.close()
 
 
 
