@@ -1,0 +1,38 @@
+Indicar bases de datos consultadas y códigos de acceso de las entradas
+Informar la estrategia: programas y parámetros utilizados.
+    Justificar la estrategia
+    Discutir resultados
+        desde la crítica basada en los algoritmos utilizados
+Bibliografía
+
+1   DESCRIPCION
+    Longitud
+    Especie
+    Frecuencias nucleotídicas locales y globales
+¿?  buscar un grup la seqüència problema del qual pertanyi a la mateixa espècie que la vostra, comparar les diverses freqüències nucleotídiques obtingudes i discutir
+
+2   BUSQUEDA DE GENES
+    Por homologia (BLAST / ...)
+    y de-novo (ORFs / CpG  /  ...)
+        coordenadas
+        longitud
+        marco de lectura
+        nombre
+        función probable (¿solo la de homología?)
+    Discusión de las diferencias entre homología y de-novo
+
+3   BÚSQUEDA DE ORTÓLOGOS
+    Tomar un gen entre los detectados (¿cual elegimos?)
+    Buscar ortólogos en especies cercanas (¿que es cercanas?)
+        Especie
+        Nombre del gen
+        Porcentaje de identidad respecto al gen elegido
+
+4   FILOGENÉTICA
+    del gen elegido antes y sus ortólogos
+    Alineamiento múltiple
+    Matriz de distancias
+    Arbol filogenético
+
+5   Búsqueda de parálogos
+    para uno de los genes detectados
