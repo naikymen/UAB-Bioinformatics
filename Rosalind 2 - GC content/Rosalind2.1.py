@@ -8,6 +8,7 @@ output = open('outest2.fasta','w')
 #https://docs.python.org/2/library/functions.html
 records = SeqIO.parse(file, 'fasta')
 gc = {}
+gc_plot = []
 
 
 window = 10
@@ -27,6 +28,7 @@ for record in records:
     while i < (len(seq)-window):
         finestra = seq[i:i+window]
         count += (finestra.count('G') + finestra.count('C'))
+        gc_plot.append(finestra.count('G') + finestra.count('C'))
         i += step
         k += len(finestra)
 
@@ -39,6 +41,8 @@ for record in records:
 maxid = max(gc.items(), key=operator.itemgetter(1))[0]
 print(maxid)
 print(round(gc[maxid],6))
+
+print(gc_plot)
 
 
 file.close()

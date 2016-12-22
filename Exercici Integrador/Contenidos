@@ -6,27 +6,28 @@ Informar la estrategia: programas y parámetros utilizados.
 Bibliografía
 
 1   DESCRIPCION
-    Longitud
-    Especie
+    3.1 Longitud
+    3.2 Especie
     Frecuencias nucleotídicas locales y globales
 ¿?  buscar un grup la seqüència problema del qual pertanyi a la mateixa espècie que la vostra, comparar les diverses freqüències nucleotídiques obtingudes i discutir
 
 2   BUSQUEDA DE GENES
-    Por homologia (BLAST / ...)
-    y de-novo (ORFs / CpG  /  ...)
-        coordenadas
-        longitud
-        marco de lectura
-        nombre
-        función probable (¿solo la de homología?)
-    Discusión de las diferencias entre homología y de-novo
+    Por homologia (BLAST / ...)     WWW,P,http://genome.crg.es/courses/Madrid04/exercises/genefinding1/
+    de-novo (ORFs / CpG  /  ...)    P,G
+    OK  coordenadas         G P
+    OK  longitud            G P
+    OK  marco de lectura    G P
+    ?   nombre              BLASTX
+    ?   función probable    BLASTX  ¿sino blastearlos de a uno...?
+        ¿solo la de homología?
+    ?   Discusión de las diferencias entre homología y de-novo
 
 3   BÚSQUEDA DE ORTÓLOGOS
-    Tomar un gen entre los detectados (¿cual elegimos?)
-    Buscar ortólogos en especies cercanas (¿que es cercanas?)
-        Especie
-        Nombre del gen
-        Porcentaje de identidad respecto al gen elegido
+    Tomar un gen entre los detectados (¿cual elegimos?)         F0_ATP_Synthase
+    Buscar ortólogos en especies cercanas (¿que es cercanas?)   BLASTX  ¿igual que el paso anterior?
+        Especie                                             BLAST
+        Nombre del gen                                      BLAST
+        Porcentaje de identidad respecto al gen elegido     BLAST
 
 4   FILOGENÉTICA
     del gen elegido antes y sus ortólogos
